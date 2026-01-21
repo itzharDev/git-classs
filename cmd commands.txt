@@ -1,0 +1,4 @@
+cd folderName
+cd .. - ללכת תיקיה אחורה/למעלה
+mkdir - DIR_NAME - ליצור תיקיה
+rmdir - למחוק תיקיה
